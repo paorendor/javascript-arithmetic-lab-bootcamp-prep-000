@@ -7,10 +7,6 @@ function beforeEach()
 }
 
 
-function preserveDecimal(n)
-{
-  parseInt(n)
-}
 
 beforeEach()
 
@@ -47,6 +43,11 @@ function dec(n)
 function makeInt(n)
 {
   return parseInt(n)
+}
+
+function preserveDecimal(n)
+{
+  parseInt(n)
 }
 
 
