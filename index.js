@@ -49,8 +49,5 @@ function makeInt(n)
   retunr parseInt(n)
 }
 
-function isNaN(n)
-{
-  reutnr parseFloat(n)
-}
+
 
