@@ -44,6 +44,10 @@ function dec(n)
   return n - 1
 }
 
+function inc(n)
+{
+  n + 1
+}
 
 
 
