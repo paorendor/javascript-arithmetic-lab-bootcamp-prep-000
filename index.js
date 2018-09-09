@@ -44,9 +44,13 @@ function dec(n)
   return n - 1
 }
 
-function makeInt()
+function makeInt(n)
 {
-  
+  retunr parseInt(n)
 }
 
+function isNaN(n)
+{
+  reutnr parseFloat(n)
+}
 
